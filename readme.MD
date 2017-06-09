@@ -12,7 +12,7 @@
 
 - [A nice trello flow for learning JS](https://trello.com/b/oinINq9f/learn-javascript-properly-experienced-programmers-roadmap)
 
-- [Modern JS guideline by javascript.info] (https://javascript.info/)
+- [Modern JS guideline by javascript.info](https://javascript.info)
 
 ## Books
 
