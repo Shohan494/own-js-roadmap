@@ -1,18 +1,22 @@
-# Javascript Learning Roadmap
+# Javascript Learning Roadmap/Tracks
+
+## Links
 
 - [Javascript is sexy guideline](http://javascriptissexy.com/how-to-learn-javascript-properly)
 
 - [JS The Right Way](http://jstherightway.org)
 
-- [A great JS-Wrokshop Slide by Gnab](http://gnab.github.io/js-workshop)
+- [A great JS-Workshop Slide by Gnab](http://gnab.github.io/js-workshop)
 
-- [Mozzila Developer Network Guideline](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-- [Roadmap to Learning JavaScript for Free](https://www.webpagefx.com/blog/web-design/learning-javascript-for-free)
+- [Modern JS guideline by javascript.info](https://javascript.info)
 
 - [A nice trello flow for learning JS](https://trello.com/b/oinINq9f/learn-javascript-properly-experienced-programmers-roadmap)
 
-- [Modern JS guideline by javascript.info](https://javascript.info)
+- [Learning according to ES6, ES5, ES3](https://bytearcher.com/articles/roadmap-for-learning-javascript-language) 
+
+- [Mozilla Developer Network Guideline](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- [Roadmap to Learning JavaScript for Free](https://www.webpagefx.com/blog/web-design/learning-javascript-for-free)
 
 ## Books
 
